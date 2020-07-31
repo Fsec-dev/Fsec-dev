@@ -1,10 +1,24 @@
-### Hi there 👋
+### Hello Friend!! 👋
 
+**Fsec-dev/Fsec-dev** es un repositorio donde estare publicando algunas cosas las cuales realizo en 
+mi tiempo libre y cuando estoy inspirado.
+
+Para que nos conozcamos, las cosas que me gustan son:
+
+- 🔭 Aprender y enseñar sobre las cosas en las que me considero bueno.
+- Amante de la musica (Rock, House, Trance y otras rarezas 😄).
+- 📽 Amante del Septimo Arte (Sci-Fi).
+- Mis lenguajes en los que siento comodo son: Python, C/C++, C#, PHP y Bash.
+- 👯 Amo trabajar en equipo y cooperar en todo, no solo en el ambito tecnologico.
+- 🕵️‍♀️ Hacker de corazon Gris.
+
+## Puedes contactarme
+**Email:** anonuser_2.0@protonmail.com
+
+## Si deseas comprame un cafe:
+
+**Bitcoin Address:** 1Ef5jWYHa78zbKe3M9q7dGXDauiTcqFLrk
 <!--
-**Fsec-dev/Fsec-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

@@ -1,9 +1,11 @@
+<img src="1554056012646.jpg" width=600 />
+
 ### Hello Friend!! 👋
 
 **Fsec-dev/Fsec-dev** es un repositorio donde estare publicando algunas cosas las cuales realizo en 
 mi tiempo libre y cuando estoy inspirado.
 
-Para que nos conozcamos, las cosas que me gustan son:
+**Para que nos conozcamos, las cosas que me gustan son:**
 
 - 🔭 Aprender y enseñar sobre las cosas en las que me considero bueno.
 - Amante de la musica (Rock, House, Trance y otras rarezas 😄).

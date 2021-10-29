@@ -16,6 +16,9 @@ mi tiempo libre y cuando estoy inspirado.
 - 👯 Amo trabajar en equipo y cooperar en todo, no solo en el ambito tecnologico.
 - 🕵️‍♀️ Hacker de corazon Gris.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsec-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Puedes contactarme
 **Email:** anonuser_2.0@protonmail.com
 
